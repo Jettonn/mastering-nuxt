@@ -7,8 +7,12 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^6.9.3",
-    "@tailwindcss/typography": "^0.5.8",
+    "@nuxtjs/tailwindcss": "^6.10.1",
+    "@tailwindcss/typography": "^0.5.10",
     "nuxt": "^3.8.2"
+  },
+  "dependencies": {
+    "@vueuse/core": "^12.3.0",
+    "@vueuse/nuxt": "^12.3.0"
   }
 }
